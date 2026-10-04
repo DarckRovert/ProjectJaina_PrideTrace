@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: WoW Peru - Pride diagnostic
+## Notes: Temporary, read-only aircraft input diagnostic. No spell or key binding changes.
+## Author: DarckRovert (Elnazzareno) & WoW Perú Team
+## SavedVariables: WG_PRIDE_TRACE
+PrideTrace.lua
