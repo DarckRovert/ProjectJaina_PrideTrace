@@ -4,6 +4,8 @@
 
 Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el sistema de vuelo (aircraft) del servidor WoW Perú. No modifica hechizos ni keybindings. Diseñado para identificar problemas de captura de input durante secuencias de vuelo scripted.
 
+> ⚠️ **Filtro de Seguridad Interno** — El registro de eventos está restringido al personaje de QA y desarrollo `"Snak"`.
+
 ---
 
 ## Características
@@ -11,7 +13,7 @@ Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el
 - **Solo lectura** — No altera ningún keybinding ni spell.
 - **Diagnóstico en tiempo real** — Muestra en pantalla qué inputs se registran durante el vuelo.
 - **Temporal** — Addon de soporte para el equipo de QA de WoW Perú.
-- Compatible con WotLK 3.3.5a y Cataclysm 4.3.
+- Compatible con WotLK 3.3.5a (Interface 30300) y Cataclysm 4.3.
 
 ## Instalación
 
@@ -22,10 +24,18 @@ Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el
 
 - `WG_PRIDE_TRACE` — Log de sesión de input.
 
-## Créditos
+## Créditos y Licencia
 
 - **Autor:** DarckRovert (Elnazzareno) & WoW Perú Team
-- **Licencia:** Uso interno WoW Perú
+- **Versión:** 1.0.0
+- **Licencia:** [MIT License](LICENSE)
+
+---
+
+## Documentación del Ecosistema
+
+* [Ficha Técnica Oficial del Ecosistema](ECOSYSTEM_REGISTRY.md)
+* [Historial de Cambios](CHANGELOG.md)
 
 ---
 
