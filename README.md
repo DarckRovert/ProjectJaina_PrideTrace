@@ -2,6 +2,8 @@
 
 > **WoW Perú Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el sistema de vuelo (aircraft) del servidor WoW Perú. No modifica hechizos ni keybindings. Diseñado para identificar problemas de captura de input durante secuencias de vuelo scripted.
 
 > ⚠️ **Filtro de Seguridad Interno** — El registro de eventos está restringido al personaje de QA y desarrollo `"Snak"`.
