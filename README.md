@@ -1,5 +1,7 @@
 # WowPeruPrideTrace — Diagnóstico de Input en Vuelo
 
+[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWoWPeru_PrideTrace-black?logo=github)](https://github.com/DarckRovert/WoWPeru_PrideTrace)
+
 > **WoW Perú Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
