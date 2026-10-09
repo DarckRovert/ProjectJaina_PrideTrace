@@ -1,7 +1,7 @@
-# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — Wanos_PrideTrace
+# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — ProjectJaina_PrideTrace
 
-**Addon:** `Wanos_PrideTrace`  
-**Repositorio Oficial:** [https://github.com/DarckRovert/Wanos_PrideTrace](https://github.com/DarckRovert/Wanos_PrideTrace)  
+**Addon:** `ProjectJaina_PrideTrace`  
+**Repositorio Oficial:** [https://github.com/DarckRovert/ProjectJaina_PrideTrace](https://github.com/DarckRovert/ProjectJaina_PrideTrace)  
 **Motor Gráfico y Runtime:** WoW 3.3.5a WotLK (Build 12340) / Lua 5.1 (Blizzard VM)
 
 ---

@@ -1,6 +1,6 @@
 # WowPeruPrideTrace — Diagnóstico de Input en Vuelo
 
-[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_PrideTrace-black?logo=github)](https://github.com/DarckRovert/Wanos_PrideTrace)
+[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FProjectJaina_PrideTrace-black?logo=github)](https://github.com/DarckRovert/ProjectJaina_PrideTrace)
 
 > **Project Jaina Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
 
@@ -30,7 +30,7 @@ Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el
 
 ## Créditos y Licencia
 
-- **Autor:** DarckRovert (Elnazzareno) & Project Jaina Team
+- **Autor:** DarckRovert (Elnazzareno) & Antigravity (Mythos 5)
 - **Versión:** 1.0.0
 - **Licencia:** [MIT License](LICENSE)
 

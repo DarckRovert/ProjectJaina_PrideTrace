@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: Project Jaina - Pride diagnostic
 ## Notes: Temporary, read-only aircraft input diagnostic. No spell or key binding changes.
-## Author: DarckRovert (Elnazzareno) & Project Jaina Team
+## Author: DarckRovert (Elnazzareno) & Antigravity (Mythos 5)
 ## SavedVariables: WG_PRIDE_TRACE
 PrideTrace.lua

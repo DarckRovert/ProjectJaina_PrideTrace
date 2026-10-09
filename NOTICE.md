@@ -1,4 +1,4 @@
-# 📜 Aviso Legal y Atribución — Wanos_PrideTrace
+# 📜 Aviso Legal y Atribución — ProjectJaina_PrideTrace
 
 Este repositorio forma parte del instrumental de control de calidad y telemetría de **Project Jaina - Project Jaina**.
 Herramienta de diagnóstico de latencia de input, framerate e inspección de rendimiento en vuelo para World of Warcraft 3.3.5a (Build 12340).
@@ -7,8 +7,8 @@ Herramienta de diagnóstico de latencia de input, framerate e inspección de ren
 
 ## 1. Autoría y Desarrollo Oficial
 * **Desarrollador:** DarckRovert & Project Jaina Engineering Team
-* **Ecosistema:** [Project Jaina — Project Jaina](https://projectjaina.com/)
-* **Repositorio Oficial:** [DarckRovert/Wanos_PrideTrace](https://github.com/DarckRovert/Wanos_PrideTrace)
+* **Ecosistema:** [Project Jaina — Project Jaina](https://darckrovert.github.io/ProjectJaina_Web/)
+* **Repositorio Oficial:** [DarckRovert/ProjectJaina_PrideTrace](https://github.com/DarckRovert/ProjectJaina_PrideTrace)
 
 ---
 
