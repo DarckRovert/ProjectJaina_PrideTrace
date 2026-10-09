@@ -1,7 +1,7 @@
 # 🔌 Especificación Técnica y API — Wanos_PrideTrace
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_PrideTrace-black?logo=github)](https://github.com/DarckRovert/Wanos_PrideTrace)
-[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://worldofwanos.com/)
+[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://projectjaina.com/)
 
 ## 📌 Resumen Arquitectónico
 Módulo de telemetría de input de solo lectura para auditoría técnica de latencia, tasa de muestreo y diagnóstico de pulsaciones en combate competitivo.

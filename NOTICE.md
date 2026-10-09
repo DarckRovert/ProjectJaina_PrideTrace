@@ -7,7 +7,7 @@ Herramienta de diagnóstico de latencia de input, framerate e inspección de ren
 
 ## 1. Autoría y Desarrollo Oficial
 * **Desarrollador:** DarckRovert & Project Jaina Engineering Team
-* **Ecosistema:** [Project Jaina — Project Jaina](https://worldofwanos.com/)
+* **Ecosistema:** [Project Jaina — Project Jaina](https://projectjaina.com/)
 * **Repositorio Oficial:** [DarckRovert/Wanos_PrideTrace](https://github.com/DarckRovert/Wanos_PrideTrace)
 
 ---
