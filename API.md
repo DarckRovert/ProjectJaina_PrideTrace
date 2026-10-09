@@ -1,7 +1,7 @@
-# 🔌 Especificación Técnica y API — WoWPeru_PrideTrace
+# 🔌 Especificación Técnica y API — Wanos_PrideTrace
 
-[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWoWPeru_PrideTrace-black?logo=github)](https://github.com/DarckRovert/WoWPeru_PrideTrace)
-[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://wow-peru.lat/)
+[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_PrideTrace-black?logo=github)](https://github.com/DarckRovert/Wanos_PrideTrace)
+[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://worldofwanos.com/)
 
 ## 📌 Resumen Arquitectónico
 Módulo de telemetría de input de solo lectura para auditoría técnica de latencia, tasa de muestreo y diagnóstico de pulsaciones en combate competitivo.
@@ -36,4 +36,4 @@ Módulo de telemetría de input de solo lectura para auditoría técnica de late
 ## 🛠️ Buenas Prácticas de Integración
 1. Toda invocación a funciones públicas debe verificar previamente la existencia del espacio de nombres en `_G`.
 2. Las tablas de configuración deben consultarse en modo lectura sin sobreescribir valores por omisión no validados.
-3. El intercambio de datos con otros addons debe efectuarse a través del bus oficial `WoWPeru_Companion` o hooks de eventos estándar.
+3. El intercambio de datos con otros addons debe efectuarse a través del bus oficial `Wanos_Companion` o hooks de eventos estándar.

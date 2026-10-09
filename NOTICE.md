@@ -1,14 +1,14 @@
-# 📜 Aviso Legal y Atribución — WoWPeru_PrideTrace
+# 📜 Aviso Legal y Atribución — Wanos_PrideTrace
 
-Este repositorio forma parte del instrumental de control de calidad y telemetría de **WoW Perú - Reino Andino**.
+Este repositorio forma parte del instrumental de control de calidad y telemetría de **Project Jaina - Project Jaina**.
 Herramienta de diagnóstico de latencia de input, framerate e inspección de rendimiento en vuelo para World of Warcraft 3.3.5a (Build 12340).
 
 ---
 
 ## 1. Autoría y Desarrollo Oficial
-* **Desarrollador:** DarckRovert & WoW Perú Engineering Team
-* **Ecosistema:** [WoW Perú — Reino Andino](https://wow-peru.lat/)
-* **Repositorio Oficial:** [DarckRovert/WoWPeru_PrideTrace](https://github.com/DarckRovert/WoWPeru_PrideTrace)
+* **Desarrollador:** DarckRovert & Project Jaina Engineering Team
+* **Ecosistema:** [Project Jaina — Project Jaina](https://worldofwanos.com/)
+* **Repositorio Oficial:** [DarckRovert/Wanos_PrideTrace](https://github.com/DarckRovert/Wanos_PrideTrace)
 
 ---
 

@@ -1,12 +1,12 @@
 # WowPeruPrideTrace — Diagnóstico de Input en Vuelo
 
-[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWoWPeru_PrideTrace-black?logo=github)](https://github.com/DarckRovert/WoWPeru_PrideTrace)
+[![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_PrideTrace-black?logo=github)](https://github.com/DarckRovert/Wanos_PrideTrace)
 
-> **WoW Perú Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
+> **Project Jaina Ecosystem** · WotLK 3.3.5a compatible · `Interface: 30300`
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el sistema de vuelo (aircraft) del servidor WoW Perú. No modifica hechizos ni keybindings. Diseñado para identificar problemas de captura de input durante secuencias de vuelo scripted.
+Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el sistema de vuelo (aircraft) del servidor Project Jaina. No modifica hechizos ni keybindings. Diseñado para identificar problemas de captura de input durante secuencias de vuelo scripted.
 
 > ⚠️ **Filtro de Seguridad Interno** — El registro de eventos está restringido al personaje de QA y desarrollo `"Snak"`.
 
@@ -16,7 +16,7 @@ Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el
 
 - **Solo lectura** — No altera ningún keybinding ni spell.
 - **Diagnóstico en tiempo real** — Muestra en pantalla qué inputs se registran durante el vuelo.
-- **Temporal** — Addon de soporte para el equipo de QA de WoW Perú.
+- **Temporal** — Addon de soporte para el equipo de QA de Project Jaina.
 - Compatible con WotLK 3.3.5a (Interface 30300) y Cataclysm 4.3.
 
 ## Instalación
@@ -30,7 +30,7 @@ Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el
 
 ## Créditos y Licencia
 
-- **Autor:** DarckRovert (Elnazzareno) & WoW Perú Team
+- **Autor:** DarckRovert (Elnazzareno) & Project Jaina Team
 - **Versión:** 1.0.0
 - **Licencia:** [MIT License](LICENSE)
 
@@ -43,4 +43,4 @@ Herramienta de **diagnóstico de input en tiempo real** de sólo lectura para el
 
 ---
 
-*Parte del [ecosistema WoW Perú](https://github.com/DarckRovert)*
+*Parte del [ecosistema Project Jaina](https://github.com/DarckRovert)*
