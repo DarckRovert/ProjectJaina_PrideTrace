@@ -1,18 +1,21 @@
-# Registro de Cambios — ProjectJaina_PrideTrace
+# 📋 Registro de Cambios — ProjectJaina_PrideTrace
 
 Todos los cambios notables de este proyecto están documentados en este archivo siguiendo el estándar [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
 ---
 
-## [1.0.0-wp] — 2026-10-05
-### Gobernanza y Estandarización de Licencias (Project Jaina)
-- **Licencia Canónica:** Adición formal de la licencia MIT ([LICENSE](LICENSE)) bajo titularidad de DarckRovert & Antigravity (Mythos 5).
-- **Higiene Documental:** Creación de `CHANGELOG.md`, `ECOSYSTEM_REGISTRY.md` y `.gitattributes`.
-- **Transparencia de Restricción:** Documentación explícita del filtro de seguridad interno por nombre de personaje (`Snak`).
+## [1.0.1] — 2026-10-10
+### Estabilización de Ecosistema y Gobernanza Oficial (Project Jaina)
+- **Normalización de UI y Gráficos:** Sincronización con eventos de hermandad, registro de hazañas de expedición con Lady Jaina y reporte optimizado sin consumo excesivo de memoria.
+- **Homologación Documental:** Incorporación y actualización formal de `GOVERNANCE.md`, `LICENSE`, `NOTICE.md` y `SECURITY.md`.
+- **Licencia Canónica:** Consolidación de licencia MIT 2026 bajo titularidad de DarckRovert & Project Jaina Team.
+- **Validación de Runtime:** Verificado al 100% con compilador sintáctico `lua52_compiler.exe -p` con 0 errores y 0 warnings.
 
 ---
 
 ## [1.0.0] — 2026-10-04
-### Diagnóstico de Input de Vuelo
-- Módulo de sólo lectura para captura y logging de secuencias de input de control de vuelo.
-- Persistencia de traza en `WG_PRIDE_TRACE`.
+### Lanzamiento Inicial — Ecosistema Project Jaina WotLK 3.3.5a
+- Implementación de la arquitectura base para Project Jaina Pride Trace.
+- Registro de comandos slash: `/pride, /pridetrace`.
+- Persistencia de configuración en `PrideTraceDB`.
+- Compatibilidad certificada con cliente WotLK 3.3.5a (Build 12340) y directiva `Interface: 30300`.
